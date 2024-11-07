@@ -1,7 +1,7 @@
 # 小红书关键词帖子文章检索和收集爬虫程序 个人修改版
 
 ## 程序介绍
-本程序使用了https://github.com/Hasuki360/redbook-keywords
+本程序使用了https://github.com/xiaohe112233/redbook-keywords的代码
 - 使用介绍点进大佬的项目
 - 以下新功能都是用AI加入的，都是我自己需要的功能，陆陆续续的跟AI说了一堆话总结的功能
 
